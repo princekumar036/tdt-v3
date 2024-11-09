@@ -1,4 +1,4 @@
-$(document).ready(function(){
+// $(document).ready(function(){
 
     $('.mobile-nav-btn').click(() => {
         navToggle()    
@@ -26,4 +26,4 @@ $(document).ready(function(){
             $('.nav-close').hide()
         }
     }
-})
+// })
